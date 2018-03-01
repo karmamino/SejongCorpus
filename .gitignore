@@ -9,3 +9,4 @@ __pycache__/
 # Jupyter notebook
 .ipynb_checkpoints/
 
+db/lrdb.csv
