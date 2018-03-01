@@ -1,0 +1,11 @@
+# Large size data
+sejong/*
+refinement/*
+
+# Python
+.pyc
+__pycache__/
+
+# Jupyter notebook
+.ipynb_checkpoints/
+
